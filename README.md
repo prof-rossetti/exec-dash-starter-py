@@ -8,7 +8,7 @@ A starter repository for the "Executive Dashboard" project.
 
 ## Installation
 
-Fork this project repository under your own control, then clone or download the resulting repository onto your computer. Then navigate there from the command line:
+Fork this [starter project repository](https://github.com/prof-rossetti/exec-dash-starter-py) under your own control, then clone or download the resulting repository onto your computer. Then navigate there from the command line:
 
 ```sh
 cd exec-dash-starter-py
